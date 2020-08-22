@@ -1,0 +1,827 @@
+[
+  {
+    "title": "Desmitificando el Bullying",
+    "displayTitle": "Desmitificando el Bullying",
+    "body": "<p>¿Sabías que aún existen muchos mitos sobre el bullying y el ciberbullying?, nuestro compromiso dentro del ambiente educativo es estar preparados para identificarlos y orientar a aquellos que tienen creencias erróneas sobre estos fenómenos.</p><p>¿Te animas a cumplir el reto de identificar mitos y realidades? Lee los siguientes enunciados y pulsa sobre la palabra “Mito” o “Realidad” para clasificarlos.</p>",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c0",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Descubre las estrategias de prevención",
+    "displayTitle": "Descubre las estrategias de prevención",
+    "body": "<p>Para iniciar esta unidad te proponemos un reto. Encuentra en esta sopa de letras 9 palabras que corresponden a los nombres de las estrategias de prevención del bullying y el ciberbullying que han mostrado mejores resultados a nivel mundial, pulsa sobre ellas y podrás conocer en qué consiste cada una.</p>",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c1",
+    "_parentId": "5f4117969bbcb106b456a2bd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Descubre más sobre Conectado",
+    "displayTitle": "Descubre más sobre Conectado",
+    "body": "<p>Para comenzar queremos darte acceso a nuestro ordenador. Pulsa sobre cada uno de los archivos del escritorio y encuentra las respuestas a las preguntas más comunes sobre Conectado.</p>",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c2",
+    "_parentId": "5f4117969bbcb106b456a2be",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Primer día del juego",
+    "displayTitle": "Primer día del juego",
+    "body": "<p>Mira el siguiente vídeo para conocer la estructura que tiene el primer día del juego</p>",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2db",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c3",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "La tecnología ya es prevención",
+    "displayTitle": "La tecnología ya es prevención",
+    "body": "<p>En la actividad anterior pudiste descubrir, a nivel general, las estrategias que se usan para prevenir el bullying, pero es momento de ver cómo se pueden llevar a cabo usando la tecnología. Pulsa sobre cada una de las cartas siguiendo el orden establecido y descúbrelo.</p>",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2cc",
+    "_parentId": "5f4117969bbcb106b456a2bd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "¿Qué hay detrás de Conectado?",
+    "displayTitle": "¿Qué hay detrás de Conectado?",
+    "body": "<p>Como ya imaginarás, detrás de Conectado hay un grupo de instituciones y personas que han unido esfuerzos para crear esta herramienta.</p><p>¿Quieres descubrir quiénes son? Encuéntralos, son 5 y están escondidos en la imagen que verás a continuación. Recuerda pulsar sobre ellos para ver más información.</p>",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2cf",
+    "_parentId": "5f4117969bbcb106b456a2be",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d3",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c4",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Los juegos serios antibullying ",
+    "displayTitle": "Los juegos serios antibullying ",
+    "body": "<p>Otras herramientas usadas para concientizar y reforzar las habilidades personales de los niños y adolescentes son los videojuegos, específicamente los juegos serios. Mira el siguiente vídeo y conoce más sobre ellos.</p>",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2cd",
+    "_parentId": "5f4117969bbcb106b456a2bd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "<p><span>Además de contar con el esfuerzo de todos los equipos mencionados, varias instituciones educativas participaron en el proceso de validación. Pulsa sobre las flechas y descubre más sobre esto.</span></p>",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d0",
+    "_parentId": "5f4117969bbcb106b456a2be",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Segundo día del juego",
+    "displayTitle": "Segundo día del juego",
+    "body": "<p>Observa el siguiente vídeo para conocer la estructura que tiene el segundo día del juego</p>",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2dc",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c5",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "<p><span>En esta unidad has podido conocer cuáles son las estrategias de prevención del bullying y ciberbullying más utilizadas y cómo la tecnología ayuda a ejecutarlas de maneras distintas a las tradicionales. Además, has podido descubrir que los juegos serios representan una herramienta potente para prevenir el acoso.</span></p>",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2ce",
+    "_parentId": "5f4117969bbcb106b456a2bd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "¿Cómo descargar Conectado?",
+    "displayTitle": "¿Cómo descargar Conectado?",
+    "body": "<p>Luego de conocer las características principales del juego serio Conectado es momento de descargarlo e instalarlo en tu ordenador. Ingresa a la página oficial <a href=\"https://www.e-ucm.es/es/portfolio-item/conectado\">aquí</a> y selecciona si deseas ejecutarlo en Windows o Linux.</p><p>Si tienes dudas mira el siguiente tutorial y aprende cómo hacerlo.</p>",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d1",
+    "_parentId": "5f4117969bbcb106b456a2be",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d4",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c6",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Nuevo",
+    "displayTitle": "",
+    "body": "<p>En esta unidad has podido conocer las características el juego serio Conectado, quienes fueron sus creadores y cómo se realizó el proceso de validación de este. Además, has descargado el videojuego y pronto podrás usarlo.</p>",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d2",
+    "_parentId": "5f4117969bbcb106b456a2be",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Tercer día del juego",
+    "displayTitle": "Tercer día del juego",
+    "body": "<p>Mira el siguiente vídeo para conocer la estructura que tiene el tercer día del juego.</p>",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2dd",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c7",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d5",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "¿Qué nos permitió identificar el reto?",
+    "displayTitle": "¿Qué nos permitió identificar el reto?",
+    "body": "<p>Observa el siguiente vídeo y repasa los contenidos aprendidos con el reto.</p>",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c8",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Cuarto día del juego",
+    "displayTitle": "Cuarto día del juego",
+    "body": "<p>Observa el siguiente vídeo para conocer la estructura que tiene el cuarto día del juego</p>",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2de",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "¿Cuál es la realidad del bullying y el ciberbullying?",
+    "displayTitle": "¿Cuál es la realidad del bullying y el ciberbullying?",
+    "body": "<p>Sabemos que el bullying y el ciberbullying son realidades que existen en los entornos educativos, pero es posible que en este momento sea difícil para ti hablar de cifras exactas y la evolución que estas han tenido al pasar de los años.</p><p>Hagamos un recorrido por estos datos y veamos qué información nos aportan:</p><p>1. Comienza por conocer los datos oficiales compartidos por la UNESCO en el informe “Behind the numbers: Ending school violence and bullying” pulsando sobre los puntos señalados en el mapa. Los puntos morados muestran los datos relacionados con el bullying y los puntos verdes muestran los datos relacionados con el ciberbullying.</p>",
+    "_classes": "",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2c9",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d6",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "<p><span>2. Ya conoces las cifras mundiales, descubre ahora las cifras en España a nivel nacional y local pulsando y observando los resultados de cada informe</span></p>",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2ca",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Quinto día del juego",
+    "displayTitle": "Quinto día del juego",
+    "body": "<p>Mira el siguiente vídeo para conocer la estructura que tiene el quinto día del juego.</p>",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2df",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "¿Qué conclusiones podemos elaborar?",
+    "displayTitle": "¿Qué conclusiones podemos elaborar?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2cb",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d7",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Aspectos claves para el debate",
+    "displayTitle": "Aspectos claves para el debate",
+    "body": "<p>Conectado es un videojuego que cada alumno puede jugar de forma individual en el aula o que puede ser usado por una clase entera en un solo ordenador, proyectando este en una pantalla grande.</p><p>De igual forma, el debate que genera el profesor puede hacerse al finalizar el juego o a medida que este transcurre. Lo importante es que el docente fomente la discusión y ayude a los jóvenes a reflexionar sobre los distintos temas que se desarrollan en él.</p><p>En caso de en caso de tener poco tiempo, el debate se debe enfocar en los aspectos que te mostramos en la siguiente imagen. Pulsa sobre cada icono y descúbrelos.</p>",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d9",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Preguntas frecuentes",
+    "displayTitle": "Preguntas frecuentes",
+    "body": "<p>A continuación, encontrarás un listado de preguntas frecuentes sobre Conectado, pulsa sobre cada una de ellas para descubrir el contenido.</p>",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2d8",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "<p>En esta unidad has podido puntualizar varios aspectos teóricos que explican el bullying y el ciberbullying. Además, has conocido las cifras globales, nacionales y regionales que evalúan su prevalencia y evolución.</p>",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2e0",
+    "_parentId": "5f4117969bbcb106b456a2bc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2da",
+    "_parentId": "5f4117969bbcb106b456a2bf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

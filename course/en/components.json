@@ -1,0 +1,3397 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e1",
+    "_parentId": "5f4117969bbcb106b456a2c0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "1. Para englobar una situación dentro del bullying, se debe tratar exclusivamente de una conducta agresiva que cause daño físico.",
+    "_items": [
+      {
+        "text": "Mito",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correcto, se trata de un mito porque la acción que ejerce el acosador puede causar daño físico o psicológico. Ambos casos, juntos o por separado, representan conductas de bullying.</p>"
+      },
+      {
+        "text": "Realidad",
+        "_shouldBeSelected": false,
+        "feedback": "<p>No es así, se trata de un mito porque la acción que ejerce el acosador puede causar daño físico o psicológico. Ambos casos, juntos o por separado, representan conductas de bullying.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correcto, se trata de un mito porque la acción que ejerce el acosador puede causar daño físico o psicológico. Ambos casos, juntos o por separado, representan conductas de bullying.</p>",
+      "_incorrect": {
+        "final": "<p>No es así, se trata de un mito porque la acción que ejerce el acosador puede causar daño físico o psicológico. Ambos casos, juntos o por separado, representan conductas de bullying.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e2",
+    "_parentId": "5f4117969bbcb106b456a2c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "2. La acción agresiva que se realiza en el bullying es una acción deliberada y en ocasiones premeditada.",
+    "_items": [
+      {
+        "text": "Mito",
+        "_shouldBeSelected": false,
+        "feedback": "<p><span>No es así, una de las características principales del bullying es que existe la intención de hacer daño, por lo tanto, aquellas acciones accidentales quedan excluidas de la esfera del acoso escolar.</span></p>"
+      },
+      {
+        "text": "Realidad",
+        "_shouldBeSelected": true,
+        "feedback": "<p><span>Correcto, una de las características principales del bullying es que existe la intención de hacer daño, por lo tanto, aquellas acciones accidentales quedan excluidas de la esfera del acoso escolar.</span></p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><span>Correcto, una de las características principales del bullying es que existe la intención de hacer daño, por lo tanto, aquellas acciones accidentales quedan excluidas de la esfera del acoso escolar.</span></p>",
+      "_incorrect": {
+        "final": "<p><span>No es así, una de las características principales del bullying es que existe la intención de hacer daño, por lo tanto, aquellas acciones accidentales quedan excluidas de la esfera del acoso escolar.</span></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e3",
+    "_parentId": "5f4117969bbcb106b456a2c4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "3. El alumno expuesto a las acciones negativas del acosador tiene dificultades para defenderse.",
+    "_items": [
+      {
+        "text": "Mito",
+        "_shouldBeSelected": false,
+        "feedback": "<p><span>No es así, en el bullying existe un desequilibrio de poder real o percibido entre la víctima y el agresor, por ello, al agredido le cuesta defenderse y desligarse de la situación.</span></p>"
+      },
+      {
+        "text": "Realidad",
+        "_shouldBeSelected": true,
+        "feedback": "<p><span>Correcto, en el bullying existe un desequilibrio de poder real o percibido entre la víctima y el agresor, por ello, al agredido le cuesta defenderse y desligarse de la situación.</span></p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><span>Correcto, en el bullying existe un desequilibrio de poder real o percibido entre la víctima y el agresor, por ello, al agredido le cuesta defenderse y desligarse de la situación.</span></p>",
+      "_incorrect": {
+        "final": "<p><span>No es así, en el bullying existe un desequilibrio de poder real o percibido entre la víctima y el agresor, por ello, al agredido le cuesta defenderse y desligarse de la situación.</span></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e4",
+    "_parentId": "5f4117969bbcb106b456a2c5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "4. Una conducta agresiva concreta que se muestre en el ámbito escolar refleja en todos los casos una situación de acoso.",
+    "_items": [
+      {
+        "text": "Mito",
+        "_shouldBeSelected": true,
+        "feedback": "<p><span>Correcto, para poder identificar una relación de acoso, es importante que las acciones agresivas (físicas o psicológicas) sean reiterativas, es decir, para que sea acoso tienen que darse una serie de conductas hacia el acosado que se repitan a lo largo de un determinado periodo de tiempo.</span></p>"
+      },
+      {
+        "text": "Realidad",
+        "_shouldBeSelected": false,
+        "feedback": "<p><span>No es así, para poder identificar una relación de acoso, es importante que las acciones agresivas (físicas o psicológicas) sean reiterativas, es decir, para que sea acoso tienen que darse una serie de conductas hacia el acosado que se repitan a lo largo de un determinado periodo de tiempo.</span></p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><span>Correcto, para poder identificar una relación de acoso, es importante que las acciones agresivas (físicas o psicológicas) sean reiterativas, es decir, para que sea acoso tienen que darse una serie de conductas hacia el acosado que se repitan a lo largo de un determinado periodo de tiempo.</span></p>",
+      "_incorrect": {
+        "final": "<p><span>No es así, para poder identificar una relación de acoso, es importante que las acciones agresivas (físicas o psicológicas) sean reiterativas, es decir, para que sea acoso tienen que darse una serie de conductas hacia el acosado que se repitan a lo largo de un determinado periodo de tiempo.</span></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e5",
+    "_parentId": "5f4117969bbcb106b456a2c6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "5. En el acoso escolar existen únicamente 2 actores identificables, el acosador y la víctima.",
+    "_items": [
+      {
+        "text": "Mito",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correcto, en el bullying participan el acosador, la víctima y los testigos, conocidos también como observadores.</p>"
+      },
+      {
+        "text": "Realidad",
+        "_shouldBeSelected": false,
+        "feedback": "<p>No es así, en el bullying participan el acosador, la víctima y los testigos, conocidos también como observadores.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correcto, en el bullying participan el acosador, la víctima y los testigos, conocidos también como observadores.</p>",
+      "_incorrect": {
+        "final": "<p>No es así, en el bullying participan el acosador, la víctima y los testigos, conocidos también como observadores.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e6",
+    "_parentId": "5f4117969bbcb106b456a2c7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "6. El ciberbullying es una extensión del bullying o acoso escolar, cuya diferencia principal es la forma en que se ejecuta.",
+    "_items": [
+      {
+        "text": "Mito",
+        "_shouldBeSelected": false,
+        "feedback": "<p><span>No es así, el ciberbullying es una forma de bullying que surge a raíz del desarrollo de las nuevas tecnologías como una nueva vía de acoso que le permite al agresor ejercer las acciones agresivas a través de los medios digitales.</span></p>"
+      },
+      {
+        "text": "Realidad",
+        "_shouldBeSelected": true,
+        "feedback": "<p><span>Correcto, el ciberbullying es una forma de bullying que surge a raíz del desarrollo de las nuevas tecnologías como una nueva vía de acoso que le permite al agresor ejercer las acciones agresivas a través de los medios digitales.</span></p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><span>Correcto, el ciberbullying es una forma de bullying que surge a raíz del desarrollo de las nuevas tecnologías como una nueva vía de acoso que le permite al agresor ejercer las acciones agresivas a través de los medios digitales.</span></p>",
+      "_incorrect": {
+        "final": "<p><span>No es así, el ciberbullying es una forma de bullying que surge a raíz del desarrollo de las nuevas tecnologías como una nueva vía de acoso que le permite al agresor ejercer las acciones agresivas a través de los medios digitales.</span></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Observa el siguiente vídeo y repasa los contenidos aprendidos con el reto.",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e7",
+    "_parentId": "5f4117969bbcb106b456a2c8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/cdee3376749b9cc5f77c43e7b839041791ce2bd4.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/f260a451e2fddcb6a3192a0bd109bc3bad2d299e.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e8",
+    "_parentId": "5f4117969bbcb106b456a2c9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/b995f04156dda805dcba67b47a859e49005c49d1.png",
+      "alt": "Prueb",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:center\"><span>En<strong> América del norte</strong> un 25% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "América del norte",
+        "_graphic": {
+          "src": "course/en/assets/4175b7d65d20c3dbfa1ed590cc6f5035e995ed3d.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 10,
+        "_top": 13
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>América central</strong> un 22,8% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "América central",
+        "_graphic": {
+          "src": "course/en/assets/2794f3728c359d12a727ce0a3fc6779c22ffbdfe.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 14,
+        "_top": 37
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>América del sur</strong> un 30,2% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "América del sur",
+        "_graphic": {
+          "src": "course/en/assets/17788bb03e46699f300ccdeec2e71cbad2c7f8d6.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 22,
+        "_top": 57
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>Europa</strong> un 25% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "Europa",
+        "_graphic": {
+          "src": "course/en/assets/4175b7d65d20c3dbfa1ed590cc6f5035e995ed3d.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 44,
+        "_top": 13
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>África del norte</strong> un 42,7% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "África del norte",
+        "_graphic": {
+          "src": "course/en/assets/01ec3ce1d04d6f104a117e65415c7e393b35b58c.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 41,
+        "_top": 27
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>África Subsahariana</strong> un 48,2% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "África Subsahariana",
+        "_graphic": {
+          "src": "course/en/assets/fdc49283b4baf26563855c1626bfbc5e37bbf4ad.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 50,
+        "_top": 54
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>Asia</strong> un 30,3% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "Asia",
+        "_graphic": {
+          "src": "course/en/assets/0f8d51ce2d1cd4b85fe05d57a3fe46523933b997.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 68,
+        "_top": 32
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En el <strong>Pacífico</strong> un 36,8% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "Pacífico",
+        "_graphic": {
+          "src": "course/en/assets/292109bc03019a092238a4cdb575c0fd568ce909.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ed2bc98ad5ba51c7017b6fd081949aa195aa02f8.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 82,
+        "_top": 50
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>América del norte</strong> 9,12% de los estudiantes ha sufrido algún tipo de ciberbullying.</span></p>",
+        "strapline": "América del norte",
+        "_graphic": {
+          "src": "course/en/assets/a91755b6228517c6e7dee87e42d9e7b935e7f008.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/8f15791e1d12f3c0f6b6033b1c19b97c75396c03.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 15,
+        "_top": 15
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align: center;\"><span>En <strong>Europa</strong> un 9,15% de los estudiantes ha sufrido algún tipo de ciberbullying</span>.</p>",
+        "strapline": "Europa",
+        "_graphic": {
+          "src": "course/en/assets/768574fcb591d0f02662d3747279ef0e389d20ea.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/8f15791e1d12f3c0f6b6033b1c19b97c75396c03.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 49,
+        "_top": 11
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "España",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2e9",
+    "_parentId": "5f4117969bbcb106b456a2ca",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "España",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Save the Children",
+        "body": "<p>Informe: Yo a eso no juego</p><p>Según datos del 2016, obtenidos de una muestra de estudiantes con edades comprendidas entre los 12 y 16 años:</p><ul><li>Un 9,3% de los encuestados reportó que había sufrido bullying.</li><li>Un 6,9% de los encuestados reportó que había sufrido ciberacoso.</li><li>Los alumnos de 1º y 2º de ESO evidenciaron mayores niveles de acoso (11,2%) y de ciberacoso (7,2%) que los alumnos de 3º y 4º de ESO, quienes manifestaron que un 7,4% sufría de acoso y un 6,7% de ciberacoso.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "PISA",
+        "body": "<p>Informe PISA 2018, Programa para la evaluación internacional de los estudiantes</p><p>Este informe del 2018 que evaluó estudiantes con 15 y 16 años de edad reveló los siguientes datos:</p><ul><li>España se encuentra por debajo de la media de países OCDE en relación al porcentaje de padecimiento de bullying.</li><li>Un 17% de los estudiantes evaluados ha sido víctima de acoso escolar, cifra que en el 2015 había sido del 14%.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "ANAR",
+        "body": "<p>III estudio sobre acoso escolar y ciberbullying según los afectados</p><p><span>Este informe reporta que en el 2017 se atendieron 590 casos de acoso escolar a través de su servicio de atención telefónica en España, de los cuales, 444 fueron de acoso escolar y 146 de ciberbullying. <span>&nbsp;</span></span><span><span>&nbsp;</span></span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2ea",
+    "_parentId": "5f4117969bbcb106b456a2ca",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Comunidad de Madrid",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Consejería de Educación e Investigación",
+        "body": "<p>III Informe anual sobre convivencia y acoso escolar</p><p>Este estudio se realizó para el curso 2017-2018 con una muestra de estudiantes de educación primaria, secundaria, bachillerato, FP Básica y FP de grado medio. Los resultados del informe mencionado revelaron lo siguiente:</p><ul><li>El tipo de acoso más común en todos los niveles educativos es el verbal y social, seguido por el físico y en último lugar el ciberacoso.</li><li>Un 1% de toda la muestra sufre de acoso y un 2,4% tiene un riesgo potencial de ser acosado.</li><li>Las cifras de acoso y riesgo de acoso mostraron un decrecimiento del fenómeno cuando se comparan con las del curso 2016-2017, donde se obtuvieron datos que indicaron un 1,6% de acoso y un 3,1% de riesgo potencial de acoso.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2eb",
+    "_parentId": "5f4117969bbcb106b456a2cb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "A nivel mundial",
+        "_ariaLevel": 0,
+        "body": "<ul><li><strong>África Subsahariana</strong> con un <strong>48,2%</strong> representa la zona con mayor prevalencia de bullying, mientras que América central con un <strong>22,8%</strong> representa la zona con menor prevalencia del bullying.</li><li>En <strong>Europa</strong> un <strong>25%</strong> de los estudiantes ha sufrido algún tipo de bullying y un <strong>9,15%</strong> ha sufrido algún tipo de ciberbullying.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/036ac87a6381bf719c1f9dfe9f7c8d3316303e23.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "A nivel mundial"
+      },
+      {
+        "title": "A nivel nacional",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Los datos de prevalencia son diversos porque cada informe usa distintas muestras y formas de recolección de datos.</li><li>A pesar de la diversidad que existe en las cifras, se ha comprobado que los alumnos de <strong>1º y 2º de ESO</strong> evidencian mayores niveles de acoso y ciberacoso que los alumnos de <strong>3º y 4º de ESO</strong>.</li><li>Los servicios de atención telefónica atendieron más de <strong>500</strong> casos identificados de bullying y ciberbullying, lo que refleja que es una realidad que existe en el país.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/e3e2b7d8a5629b3be99542ab001d622796024f27.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "A nivel nacional"
+      },
+      {
+        "title": "A nivel regional",
+        "_ariaLevel": 0,
+        "body": "<ul><li>El tipo de acoso más común en todos los niveles educativos es el <strong>verbal y social</strong>, seguido por el físico y en último lugar el ciberacoso.</li><li>Las cifras de acoso y riesgo de acoso mostraron un decrecimiento del fenómeno cuando se comparan con las de cursos anteriores.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/7f4a8e33cfe8f06be924e41e6c37b8eb178695a4.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "A nivel reional"
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2ec",
+    "_parentId": "5f4117969bbcb106b456a2c2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/87703a1923030ccc5f223bba0e0977acf5304799.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "¿Cuál es su objetivo?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span>Trabajar con la <strong>empatía</strong> y enfrentar al alumno a sentimientos como la impotencia, la inferioridad, la frustración y la soledad para que <strong>reflexione</strong> sobre las consecuencias finales de los actos de acoso y así aumente su concienciación respecto al bullying y el ciberbullying.</span></p>",
+        "strapline": "Objetivos",
+        "_graphic": {
+          "src": "course/en/assets/bf361e8cf4b9338637a5d8cff51098e36eb549ac.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/9a12c8c7dc5efbfc481c0cf7ac9149cc24229d45.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 22,
+        "_top": 9
+      },
+      {
+        "title": "¿En qué consiste Conectado?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span>En Conectado el jugador vive una experiencia durante 5 días, comienza en un instituto nuevo y tiene que hacer amigos. A lo largo de los días los compañeros que conoce le irán negando la atención y metiéndose con él o ella, tanto en persona como mediante las redes sociales. El jugador, de una manera segura, experimentará lo que supone ser víctima de bullying y ciberbullying. En el videojuego aparecen reflejadas las agresiones más habituales como la exclusión social, los insultos, motes, publicación de imágenes retocadas para humillar y reírse de una persona, mensajes ofensivos, robo de contraseñas y de objetos materiales, el chantaje, etc. </span></p>",
+        "strapline": "Consiste",
+        "_graphic": {
+          "src": "course/en/assets/5d6f618ea5f27c5280a3e7c40fba5a0aa15ca5d6.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/3bd9ef211d1f11da8261859fb606460eaebe73b5.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 22,
+        "_top": 30
+      },
+      {
+        "title": "¿Qué estrategias usa el juego?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span>Conectado incorpora varios minijuegos que aparecen en forma de pesadilla al final de cada día; en estos minijuegos, el jugador no puede ganar, lo que incrementa los sentimientos de frustración. Además, el juego incluye diálogos a los que el alumno puede responder de diferentes formas para tratar de reducir el enfrentamiento con sus compañeros, aunque nunca es posible llegar a una solución completa del problema hasta el final.</span></p>",
+        "strapline": "Estrategias",
+        "_graphic": {
+          "src": "course/en/assets/5fb4cd3e8d5436fb46fe43682be233c2ecfaaae9.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/cffebedb327634b85440120b3c93d5a024b17c0f.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 22,
+        "_top": 54
+      },
+      {
+        "title": "¿Se puede responder con violencia?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span>El juego no permite que el usuario responda de manera violenta a las agresiones. De esta forma se transmite al jugador que la forma más efectiva de combatir el acoso y el ciberacoso es pidiendo ayuda. La idea principal subyacente al juego es que el ciberacoso es un problema serio y social que no puede resolver la víctima en solitario.</span></p>",
+        "strapline": "Violencia",
+        "_graphic": {
+          "src": "course/en/assets/5ab03b9c88722fbec4aa788996fece042ce060cc.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/a34e53346752b714cc4ca0c8a1a70a239fdbeffe.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 36,
+        "_top": 9
+      },
+      {
+        "title": "¿Cómo se debe jugar?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span>Conectado ha sido diseñado y desarrollado pensando en su uso en clase por parte del docente. Esta experiencia común vivida por los alumnos en el videojuego permite al profesor realizar sesiones para dialogar sobre las situaciones presentadas por el videojuego, en la que el educador puede plantear discusiones sobre si alguna de esas situaciones se da en el colegio e incluso sobre cómo la viven sus estudiantes.</span></p>",
+        "strapline": "Jugar",
+        "_graphic": {
+          "src": "course/en/assets/9443946b280919349f2b9e14a67be48ef8af7ac3.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/08e7328bfead7c080266e39eeccd3a83da9c8b2e.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 36,
+        "_top": 30
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2ed",
+    "_parentId": "5f4117969bbcb106b456a2c1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/f718d7398fd41919a5b593472801538434a94ac9.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Diseñar leyes antibullying",
+        "_ariaLevel": 0,
+        "body": "<p>Un marco legal sólido para abordar la violencia escolar demuestra compromiso con la prevención del acoso, por ello países con políticas y leyes definidas han logrado disminuir los niveles de bullying.</p>",
+        "strapline": "Leyes",
+        "_graphic": {
+          "src": "course/en/assets/9a66ebfa0d45d7962b4fdf92c018112782636a73.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/9a66ebfa0d45d7962b4fdf92c018112782636a73.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 26,
+        "_top": 35.7
+      },
+      {
+        "title": "Establecer redes de colaboración",
+        "_ariaLevel": 0,
+        "body": "<p>Aunque los centros educativos hagan una labor efectiva de prevención, se ha comprobado que contar con el apoyo de otro tipo de instituciones (gubernamentales, medios de comunicación, asociaciones, etc.), para hacer campañas, ofrecer atención, etc., refuerza el impacto de la prevención.</p>",
+        "strapline": "Colaboración",
+        "_graphic": {
+          "src": "course/en/assets/51dd860d7868b5ca370aa1cd2d7823592ddab484.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/51dd860d7868b5ca370aa1cd2d7823592ddab484.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 14,
+        "_top": 0.086
+      },
+      {
+        "title": "Recolectar datos sobre el bullying",
+        "_ariaLevel": 0,
+        "body": "<p>Obtener, de forma regular, información sobre la prevalencia del acoso y sus características ayuda a diseñar acciones de prevención y acción más efectivas.</p>",
+        "strapline": "Datos",
+        "_graphic": {
+          "src": "course/en/assets/6a4eec3f0fae390512196d270b959f38ca71aa40.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/6a4eec3f0fae390512196d270b959f38ca71aa40.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 20,
+        "_top": 53.5
+      },
+      {
+        "title": "Crear un ambiente seguro y positivo en el aula",
+        "_ariaLevel": 0,
+        "body": "<p>Un ambiente escolar positivo y seguro disminuye la posibilidad de que exista el acoso, ya que cuando hay buena relación entre los alumnos y el profesor la comunicación se hace más fluida y los problemas se pueden resolver a tiempo.</p>",
+        "strapline": "Ambiente",
+        "_graphic": {
+          "src": "course/en/assets/0fdb3cf0808ed18d39abbfa79d879d1e225485ad.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/0fdb3cf0808ed18d39abbfa79d879d1e225485ad.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 31.9,
+        "_top": 0
+      },
+      {
+        "title": "Formar al profesorado",
+        "_ariaLevel": 0,
+        "body": "<p>No es suficiente crear planes y estrategias de intervención si las personas que van a aplicarlos no han recibido entrenamiento para hacerlo, por ello, es importante formar a los maestros para que puedan abordar situaciones de violencia e identificar signos de acoso.</p>",
+        "strapline": "Formación",
+        "_graphic": {
+          "src": "course/en/assets/9720fd38845f28eee96e140f8b524ccc6143de20.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/9720fd38845f28eee96e140f8b524ccc6143de20.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 73.6,
+        "_top": 17.9
+      },
+      {
+        "title": "Comprometerse con la participación estudiantil",
+        "_ariaLevel": 0,
+        "body": "<p>Otro factor que se considera importante para prevenir el bullying es fortalecer el empoderamiento y la participación de los alumnos en iniciativas (asambleas, elecciones, desarrollo de la normativa en el aula, etc.) que sirvan para abordar el acoso y la violencia.</p>",
+        "strapline": "Participación",
+        "_graphic": {
+          "src": "course/en/assets/3f8b67e997c34946936b5b8b98babe674987e67d.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/3f8b67e997c34946936b5b8b98babe674987e67d.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 8.1,
+        "_top": 80
+      },
+      {
+        "title": "Involucrar a los miembros de la comunidad escolar",
+        "_ariaLevel": 0,
+        "body": "<p>El bullying es un fenómeno que afecta a toda la comunidad escolar, incluyendo a los padres y profesores, por ello, es recomendable desarrollar actividades que permitan integrar a todos los actores.</p>",
+        "strapline": "Comunidad",
+        "_graphic": {
+          "src": "course/en/assets/4138a0dcda45de4adfa5c128d04626dd2ed2b2da.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/4138a0dcda45de4adfa5c128d04626dd2ed2b2da.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 61.6,
+        "_top": 0
+      },
+      {
+        "title": "Apoyar a los estudiantes afectados por el acoso escolar",
+        "_ariaLevel": 0,
+        "body": "<p>Los mecanismos más utilizados suelen ser la mediación y la conciliación dirigida por los orientadores y basada en un enfoque de pares. Esto limita los casos y evita que se repitan.</p>",
+        "strapline": "Apoyo",
+        "_graphic": {
+          "src": "course/en/assets/3481623953f101e625046a6439df6accc4166272.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/3481623953f101e625046a6439df6accc4166272.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 85.5,
+        "_top": 26.7
+      },
+      {
+        "title": "Implementar programas de intervención cuya efectividad esté basada en la evidencia",
+        "_ariaLevel": 0,
+        "body": "<p>Si se invierte tiempo y esfuerzo en diseñar, aplicar y evaluar programas de prevención ya se tendrán herramientas comprobadas para conseguir resultados positivos.</p>",
+        "strapline": "Programas",
+        "_graphic": {
+          "src": "course/en/assets/0b6fbed86bfeea413096d5db381588517a5e7081.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/0b6fbed86bfeea413096d5db381588517a5e7081.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 14,
+        "_top": 17.74
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2ee",
+    "_parentId": "5f4117969bbcb106b456a2cc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "singleFlip",
+    "_flipTime": 200,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/71d0e5247579f622a3e5d0bd7fc04e5bc7dbd6cd.png"
+        },
+        "backTitle": "El correo electrónico y los teléfonos móviles",
+        "backBody": "<p><span>La forma más simple de usar la tecnología es como medio para <strong>denunciar el acoso</strong> o <strong>establecer contacto con personas capacitadas</strong> para brindar orientación a los afectados a través del correo electrónico o de los teléfonos móviles.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "2",
+          "src": "course/en/assets/f211abc189fef033caf46545e4ea9299fb73fb7d.png"
+        },
+        "backTitle": "Las wikis, vídeos o podcast",
+        "backBody": "<p><span>Otra opción es usar las tecnologías como <strong>herramienta para obtener información</strong> sobre el bullying y trabajar con ella en clase, a través de la creación de wikis, vídeos o podcast.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "3",
+          "src": "course/en/assets/abc78a2a51cf41a21c10725fddb517b198415760.png"
+        },
+        "backTitle": "La formación online",
+        "backBody": "<p><span>También se puede aprovechar la tecnología para <strong>mejorar la formación</strong> de profesores, padres y otros miembros de la comunidad escolar proporcionándoles acceso a cursos online.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "4",
+          "src": "course/en/assets/d554415dccdfea975c752bed786f7dd4c61041e2.png"
+        },
+        "backTitle": "Las aplicaciones",
+        "backBody": "<p><span>Además, p</span><span>ara contribuir con la <strong>detección y atención temprana</strong> del bullying se han desarrollado una serie de apps que se pueden descargar en varios dispositivos y utilizar fácilmente para identificar casos de acoso. </span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "5",
+          "src": "course/en/assets/b7eaebfc0f95e93e9427f49d6da757920c947c0c.png"
+        },
+        "backTitle": "Los programas de simulación 3D",
+        "backBody": "<p><span>Con el mismo </span><span><strong>objetivo diagnóstico</strong> se han creado y validado herramientas informáticas como los programas de simulación 3D que buscan evaluar el comportamiento de los alumnos ante situaciones conflictivas que se relacionan con el acoso y el consumo de sustancias. </span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "6",
+          "src": "course/en/assets/995b16cf36870dec5de35059bd38499039f9b92e.png"
+        },
+        "backTitle": "Los programas de realidad virtual",
+        "backBody": "<p><span>Más recientemente, se han desarrollado proyectos que, en lugar de enfocarse en la prevención secundaria o en el diagnóstico de situaciones de acoso, buscan prevenir el bullying a través del <strong>fortalecimiento de la empatía</strong>. Entre ellos resaltan </span><span>programas de realidad virtual que muestran la recreación de casos de bullying y ciberbullying para que los estudiantes tomen conciencia sobre el impacto que puede tener el acoso y como afecta a sus víctimas.</span></p>"
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2ef",
+    "_parentId": "5f4117969bbcb106b456a2cd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/e64200b09b8a2d54059f19cd613b5385d0967e64.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/91f2e6c6d59d52bb2a1b0f96a4d670cd99b3d6aa.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2f0",
+    "_parentId": "5f4117969bbcb106b456a2cf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/b5442f636e3130aad48e5ddf1ee5bdbee2693dee.jpg",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Grupo de investigación  e-UCM",
+        "_ariaLevel": 0,
+        "body": "<p>El proyecto pertenece al grupo <a href=\"http://www.e-ucm.es/es/\" rel=\"nofollow\">eUCM</a>, fue desarrollado por <a href=\"https://github.com/gorco\">Antonio Calvo Morata</a> y dirigido por Baltasar Fernández Manjón, Manuel Freire Morán e Iván Martínez Ortiz.</p><p>Los recusos gráficos han sido diseñados por <a href=\"https://nashek.artstation.com/\" rel=\"nofollow\">Ana Vallecillos Ruiz</a> (Directora de Arte) y <a href=\"https://www.redbubble.com/es/people/lolagonzalez?asc=u\" rel=\"nofollow\">Lola González Gutiérrez</a>.</p><p>Tanto el ejecutable como una guía para el docente se encuentran en <a href=\"https://github.com/gorco/Conectado-CyberbullyingGame/blob/master/e-ucm.es/conectado\">e-ucm.es</a>.</p>",
+        "strapline": "UCM",
+        "_graphic": {
+          "src": "course/en/assets/915112b78bcca3af5e7323730ccfdf3ebff3be83.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/c2a4a2d597e2642e51f3617310259a2a501382f9.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 61.8,
+        "_top": 26.5
+      },
+      {
+        "title": "Comunidad de Madrid",
+        "_ariaLevel": 0,
+        "body": "<p><span>Financiador parcial</span></p>",
+        "strapline": "Comunidad",
+        "_graphic": {
+          "src": "course/en/assets/af4513c11a92bbe884720bd3f05058a04eea78d5.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/358603620d6295efa687b6ddc51cf118ee76289d.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 43.3,
+        "_top": 44
+      },
+      {
+        "title": "Ministerio de educación",
+        "_ariaLevel": 0,
+        "body": "<p>Financiador parcial</p>",
+        "strapline": "Ministerio",
+        "_graphic": {
+          "src": "course/en/assets/0bac778071ea0a6c7f0aef7f0121cbe7df481a8a.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/a125428c737295d4c700a6404668e3b9c8ac7279.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 38,
+        "_top": 13
+      },
+      {
+        "title": "Comisión Europea",
+        "_ariaLevel": 0,
+        "body": "<p>Financiador parcial</p>",
+        "strapline": "Comisión",
+        "_graphic": {
+          "src": "course/en/assets/aaca8ab697f82ace1e313a502e9e8f8ae6560d5c.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/ae162eb090f6bcf069caddcd9b9efc600435a810.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 85.5,
+        "_top": 75
+      },
+      {
+        "title": "Cátedra Telefónica-Complutense ",
+        "_ariaLevel": 0,
+        "body": "<p>Financiador parcial</p>",
+        "strapline": "Telefónica",
+        "_graphic": {
+          "src": "course/en/assets/1aa00462fb42bc24a52dbe358402caaf41983966.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/e77a22e7e5c7c98d5f01781cd129db17b28b768f.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 12.5,
+        "_top": 61
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2f1",
+    "_parentId": "5f4117969bbcb106b456a2d0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Fecha de validación",
+        "_ariaLevel": 0,
+        "body": "<p><span>Conectado ha sido validado durante los años 2017-2018</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/dcfdb0b85974d2cb50287196d8c22fdfec04670d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fecha"
+      },
+      {
+        "title": "Instituciones participantes",
+        "_ariaLevel": 0,
+        "body": "<p>En las sesiones de validación del videojuego han participado las siguientes instituciones:</p><ul><li>Centro La Inmaculada</li><li>IES Europa</li><li>IES Marqués de Santillana</li><li>Colegio San Jorge</li><li>IES Manuel de Falla</li><li>IES Federico Balart</li><li>IES Giner de los Río</li><li>IES Antonio Machado</li><li>Facultad de Educación UCM</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/0f29454d4914c37802106eee814907a90643ec23.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Instituciones"
+      },
+      {
+        "title": "Población y muestra",
+        "_ariaLevel": 0,
+        "body": "<p><span>Se probó con más de 1400 usuarios entre jóvenes de 12 a 17 años, profesores en activo y estudiantes de carreras de Ciencias de la Educación.</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/51fd2323ebee46571630ffa3bb242bb5d103ba9f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Muestra"
+      },
+      {
+        "title": "Resultados",
+        "_ariaLevel": 0,
+        "body": "<p>Los resultados de estas pruebas han sido positivos y se han presentado en diferentes revistas y congresos.</p><p>Podrás encontrar más información accediendo aquí: https://www.e-ucm.es/es/portfolio-item/conectado/</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/279fa95c7243214d2ee64160d8411961d62bdbca.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Resultados"
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2f2",
+    "_parentId": "5f4117969bbcb106b456a2d1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/2d71ed1a0b774e2a3c1e5bf87bbdb3833f7ba22d.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/4e6cff7e662a556ee13e33a37bcd1e7387831ae3.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temas del primer día",
+    "displayTitle": "Temas del primer día",
+    "body": "<p><span>Pulsa sobre la flecha para que descubras los temas tratados en el primer día.</span></p>",
+    "_id": "5f4117969bbcb106b456a2f3",
+    "_parentId": "5f4117969bbcb106b456a2d3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Insultos",
+        "body": "<p><span>Durante el día tendrás opciones de ser amable con tus compañeros o no, además, habrá compañeros que te traten bien y otros que te insulten. El comportamiento al conocer a algún compañero puede influir en las interacciones posteriores. </span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Desconocidos",
+        "body": "<p><span>En las redes sociales, al finalizar el día puedes aceptar a varios compañeros de clase, puede que hayas hablado con ellos en algún momento o no. Puede ser peligroso añadir a cualquiera a una red social donde compartes tu vida y donde otros usuarios pueden contactar contigo.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Observaciones",
+        "body": "<p><span>Una de las cosas que se observó durante la validación del juego es que los alumnos aceptaban todas las peticiones de amistad sin recordar si habían hablado antes con los personajes. Los jóvenes están acostumbrados a aceptar cualquier petición de amistad en las redes sociales que utilizan a diario, al igual que hacen en el videojuego. Las peticiones que les llegan en la red social mientras están jugando pueden ser aprovechadas para que el docente les haga reflexionar sobre los peligros de compartir sus perfiles con gente desconocida.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Preguntas para la reflexión",
+    "displayTitle": "Preguntas para la reflexión",
+    "body": "<p>Al finalizar el primer día te recomendamos trabajar las siguientes reflexiones con los alumnos.</p>",
+    "_id": "5f4117969bbcb106b456a2f4",
+    "_parentId": "5f4117969bbcb106b456a2d3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pregunta 1",
+        "body": "<p><span>¿Aceptasteis las solicitudes de amistad dentro de la red social del juego? ¿De quiénes?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 2",
+        "body": "<p><span>¿Aceptasteis las solicitudes de amistad? ¿De quiénes?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 3",
+        "body": "<p><span>¿Qué deberíais haber hecho si no conocíais a alguien?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temas del segundo día",
+    "displayTitle": "Temas del segundo día",
+    "body": "<p>Pulsa sobre la flecha para que descubras los temas tratados en el segundo día.</p>",
+    "_id": "5f4117969bbcb106b456a2f5",
+    "_parentId": "5f4117969bbcb106b456a2d4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Bromas y burlas",
+        "body": "<p><span>Álex, con mala intención pega un chicle en la silla del jugador que se le pega en el pantalón y durante el día sus compañeros<br />se ríen de esto.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Exclusión en redes sociales",
+        "body": "<p><span>Álex quiere echar al jugador del chat que&nbsp; tienen los compañeros de clase.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Observaciones",
+        "body": "<p><span>Muchas veces, los jóvenes excluyen a compañeros de ciertas actividades o grupos, y aunque en general esto no tiene efectos serios, puede llegar ser peligroso según cómo se plantee.<br />Esta exclusión puede hacer que las personas se sientan rechazadas, y que crean que no tienen hueco dentro de una clase y no pertenecen a esta. A su vez, las bromas y burlas pueden crear complejos y disminuir la autoestima de los jóvenes que las padecen.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Preguntas para la reflexión",
+    "displayTitle": "Preguntas para la reflexión",
+    "body": "<p>Después de jugar el segundo día te recomendamos trabajar las siguientes reflexiones con los alumnos.</p>",
+    "_id": "5f4117969bbcb106b456a2f6",
+    "_parentId": "5f4117969bbcb106b456a2d4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pregunta 1",
+        "body": "<p><span>¿Cómo os habéis sentido cuando han propuesto echaros del grupo del chat de clase?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 2",
+        "body": "<p><span>¿Qué opináis de que se hayan reído de vosotros por “tener un chicle pegado en el pantalón”? (chicle o circunstancia similar)</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 3",
+        "body": "<p><span>¿Ha habido alguien que os ayudara con el chicle o se han reído todos? ¿Qué opináis de estos compañeros?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 4",
+        "body": "<p><span>¿Qué habéis sentido durante la pesadilla? ¿Alguno ha conseguido que los chicles no tocaran todas las sillas?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temas del tercer día",
+    "displayTitle": "Temas del tercer día",
+    "body": "<p>Pulsa sobre la flecha para que descubras los temas tratados en el tercer día.</p>",
+    "_id": "5f4117969bbcb106b456a2f7",
+    "_parentId": "5f4117969bbcb106b456a2d5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Insultos y ridiculización",
+        "body": "<p><span>Los compañeros de clase insultan a través de las redes sociales al jugador. Además de ridiculizarle a través de la foto pegada en los tablones del centro. Fotos editadas y su subida sin permiso de las personas que aparecen en estas.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Marginación y aislamiento",
+        "body": "<p><span>Casi todos los personajes evitan al jugador y no le dirigen la palabra.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Amenazas",
+        "body": "<p><span>Guille se ve amenazado por Álex para que ignore al jugador.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Observaciones",
+        "body": "<p><span>Hoy en día está de moda la edición de fotos, la creación de memes. Los jóvenes pueden hacer fotos y editarlas en cualquier momento desde su propio dispositivo móvil sin tener grandes conocimientos de edición gráfica. Las propias aplicaciones de cámara traen hoy en día editores muy sencillos para poder pintar sobre fotos o añadir sombreros, marcas y todo tipo de accesorios, stickers, o filtros que pongan a la persona algunas características de un animal. Estas fotos son habitualmente compartidas con amigos y son fácilmente accesibles y utilizables por terceros con malas intenciones. También son comunes amenazas e insultos entre los jóvenes. Sobre todo en redes sociales, donde el anonimato hace que los agresores se sientan falsamente más seguros y protegidos de represalias.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Preguntas para la reflexión",
+    "displayTitle": "Preguntas para la reflexión",
+    "body": "<p>Al finalizar el tercer día te recomendamos trabajar las siguientes reflexiones con los alumnos.</p>",
+    "_id": "5f4117969bbcb106b456a2f8",
+    "_parentId": "5f4117969bbcb106b456a2d5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pregunta 1",
+        "body": "<p><span>¿Cuántos habéis mirado la foto que hay en el tablón del instituto? Comentad que salía.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 2",
+        "body": "<p><span>Imaginad que editan una foto vuestra y crean un meme, parecido a lo que pasa en el videojuego con la foto que ponen en el tablón, qué opinaríais si lo hacen público ¿lo usaríais vosotros también?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 3",
+        "body": "<p><span>¿Creéis que está bien que Guille se deje amenazar por Álex para no hablaros durante el juego? Qué habríais hecho vosotros. Este es un ejemplo de cambio de rol, de ser víctima (amenazado por Álex) a ser un observador más que no hace nada para solventar el problema y ayudar a la víctima (el jugador)</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 4",
+        "body": "<p><span>¿Qué habéis sentido cuando en la pesadilla ningún compañero os habla?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 5",
+        "body": "<p><span>¿Sois conscientes de que lo que ponéis en la red se puede manipular fácilmente y que puede llegar a personas que no son vuestros amigos?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temas del cuarto día",
+    "displayTitle": "Temas del cuarto día",
+    "body": "<p><span>Pulsa sobre la flecha para que descubras los temas tratados en el cuarto día.</span></p>",
+    "_id": "5f4117969bbcb106b456a2f9",
+    "_parentId": "5f4117969bbcb106b456a2d6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Suplantación de identidad",
+        "body": "<p><span>Si alguien tiene tus claves en la red puede hacer cosas como si fuera tú mismo.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Robo de objetos",
+        "body": "<p><span>Si el jugador no comparte las contraseñas, durante la clase le robarán el móvil.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Huella digital",
+        "body": "<p><span>Una vez el contenido ha sido publicado, cualquier persona puede descargarse esa información y volverla a subir en cualquier momento, aunque esta sea eliminada por su autor.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Seguridad mediante contraseñas personales",
+        "body": "<p><span>Es importante usar contraseñas seguras y no compartirlas con nadie para evitar que otras personas puedan suplantar tu identidad en la red o robarte datos personales. Muchos jóvenes usan a diario sus dispositivos móviles, guardando en ellos información y contenido privado sin estar bien protegidos mediante contraseñas seguras. Comparten el móvil, sus cuentas y sus claves sin pensarlo dos veces. Además, no son conscientes de la huella digital que dejan sus acciones en internet y de la permanencia de dicha huella en el tiempo.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Preguntas para la reflexión",
+    "displayTitle": "Preguntas para la reflexión",
+    "body": "<p><span>Después de jugar el cuarto día te recomendamos trabajar las siguientes reflexiones con los alumnos.</span></p>",
+    "_id": "5f4117969bbcb106b456a2fa",
+    "_parentId": "5f4117969bbcb106b456a2d6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pregunta 1",
+        "body": "<p><span>¿A cuántos os han robado el móvil dentro del videojuego?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 2",
+        "body": "<p><span>¿Cuántos habéis encontrado el móvil? De los que habéis encontrado el móvil, ¿Quiénes os habéis burlado de María para ello?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 3",
+        "body": "<p><span>¿Cuántos habéis compartido la contraseña?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 4",
+        "body": "<p><span>¿Qué ha pasado por ello? Durante la pesadilla, las fotos que intentabais denunciar no se eliminaban ¿Por qué? ¿Qué significa? ¿Sabéis lo que es la huella digital?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temas del quinto día",
+    "displayTitle": "Temas del quinto día",
+    "body": "<p>Pulsa sobre la flecha para que descubras los temas tratados en el quinto día.</p>",
+    "_id": "5f4117969bbcb106b456a2fb",
+    "_parentId": "5f4117969bbcb106b456a2d7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Agresiones",
+        "body": "<p><span>Álex encierra al jugador en el baño, donde este no puede salir hasta que el profesor abre la puerta.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Perfil del chivato",
+        "body": "<p><span>El jugador puede dudar si contar todo lo que ha pasado a sus padres o su profesor por miedo a ser considerado un chivato.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Observaciones",
+        "body": "<p><span>Muchas veces, los jóvenes evitan contar lo que les hacen por miedo a ser clasificados como chivatos, un perfil fomentado por los propios agresores para evitar que sus víctimas pidan ayuda. Es importante que los jóvenes entiendan que la única forma de combatir a los agresores es pidiendo ayuda, la cual no se les puede ofrecer si no cuentan las cosas que les pasan. Hay que hacer hincapié en que denunciarlo no es un acto de cobardía si no de valentía.</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Preguntas para la reflexión",
+    "displayTitle": "Preguntas para la reflexión",
+    "body": "<p>Al finalizar el quinto día te recomendamos trabajar las siguientes reflexiones con los alumnos.</p>",
+    "_id": "5f4117969bbcb106b456a2fc",
+    "_parentId": "5f4117969bbcb106b456a2d7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pregunta 1",
+        "body": "<p><span>¿Cuántos le habéis dicho al profesor en el baño que Álex os había encerrado? Los que no, ¿por qué?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 2",
+        "body": "<p><span>¿Cuántos habéis buscado al profesor al principio del juego para hablarle de Álex?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 3",
+        "body": "<p><span>¿Creéis que las cosas hubieran pasado de otra forma si hubierais podido acudir al profesor antes?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 4",
+        "body": "<p><span>¿Qué hubiera pasado si vuestros compañeros no hubieran seguido a Álex y os hubieran apoyado hasta el final?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 5",
+        "body": "<p><span>¿Qué habéis sentido cuando estabais encerrados en el baño sin poder salir?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pregunta 6",
+        "body": "<p><span>¿Qué ha pasado al final con Álex? ¿Cómo creéis que debería haber acabado el juego?</span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2fd",
+    "_parentId": "5f4117969bbcb106b456a2d8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/2fa198ccd66ef9c358f60d84c2c708c7305150b0.png"
+        },
+        "backTitle": "¿Cómo puedo moverme por la escena?",
+        "backBody": "<p><span>Puedes moverte a través de las distintas escenas y escenarios pulsando sobre las distintas puertas que hay. Algunos escenarios ocupan más que la propia pantalla, para explorarlo entero el usuario deberá acercar el ratón a los extremos para que la cámara del juego enfoque otras partes de los escenarios.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/70cb6fc8f0fcc3311f7732becb77ebc7b387c054.png"
+        },
+        "backTitle": "Aparece un móvil con la hora en la pantalla ¿qué tengo que hacer?",
+        "backBody": "<p><span>Esto significa que un nuevo día está empezando dentro del juego, es por la mañana y debes ir al instituto. Tienes dos opciones, posponer la alarma (llegará tarde al colegio) o apagar la alarma y levantarse.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/d926d19d7f10be653ae7c2fb45bbee7c0be87200.png"
+        },
+        "backTitle": "¿Afecta en algo llegar o no tarde al instituto?",
+        "backBody": "<p><span>Si pospones la alarma o enciendes el ordenador antes de ir a clase, llegarás tarde. Estas acciones no cambian la historia principal, sin embargo, esto afecta a los diálogos y personas que aparecen al llegar al instituto.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/0ac7b69577b9662bc6a6612d2d06642711e5e89c.png"
+        },
+        "backTitle": "¿Dónde está mi clase? Estoy en una escena donde hay unas escaleras y no puedo avanzar",
+        "backBody": "<p><span>Para avanzar hacia el pasillo donde está tu clase debes pulsar en la parte de arriba de las escaleras.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/cc3b3aa4b8fe71963cd48b344aa5bd94fe13d450.png"
+        },
+        "backTitle": "Tengo mensajes en el chat de móvil ¿puedo contestarlos?",
+        "backBody": "<p><span>Sí, aunque no siempre. Habrá muchas veces que se te dará opción de mandar un mensaje como contestación a tus compañeros. Esta contestación puedes ser mandada entre varias opciones elegibles si pulsas sobre el botón amarillo que está en la parte inferior del móvil.</span></p><p>&nbsp;</p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/623d26b99f8efeadfcf0b8f7a921be60a0357efa.png"
+        },
+        "backTitle": "Quiero aplicar el juego en mi clase ¿Necesito haberlo jugado antes?",
+        "backBody": "<p><span>Si bien no es obligatorio haberlo jugado antes si se hace este curso o se lee la guía del docente, sí que es altamente recomendable que el profesor también obtenga la experiencia que da el juego para empatizar más con lo que van a vivir sus alumnos jugando, así como para facilitar las dinámicas de debate<br />posteriores.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/1bebbe95efbb958ee6c8f6b81d87fa2b36a37f87.png"
+        },
+        "backTitle": "No tengo ordenadores suficientes para todos mis alumnos ¿Pueden compartir ordenador?",
+        "backBody": "<p><span>El juego está diseñado y pensado para que los alumnos lo jueguen de manera individual. Es recomendable que se comente lo menos posible y los jugadores no se distraigan para conseguir la mayor inmersión posible. Sin embargo, esto es simplemente una recomendación, así como esta guía en general. El docente tiene total libertad para aplicar esta herramienta educativa como crea conveniente. Por ejemplo, y aunque el juego no se diseñó para ello, el juego puede ser usado por una clase entera en un solo ordenador, proyectando este en una pantalla grande. El profesor puede preguntar a los alumnos qué debe hacer y contestar en cada momento, las ventajas e inconvenientes de cada acción y qué harían en la realidad. De esta forma el profesor puede crear el debate mientras se juega. </span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/0c8f942a5eabc16253e12d136d6397918cb40bfa.png"
+        },
+        "backTitle": "Me gustaría aplicar el juego con mis alumnos, pero no hay ordenadores Windows en mi colegio. ¿Existen versiones para otros sistemas operativos?",
+        "backBody": "<p><span>Actualmente la versión más estable se encuentra desarrollada en Windows y es la única publicada. En un futuro cercano publicaremos el juego para sistemas Linux. Y más adelante versión para Android y versión web.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/83e2492db10e67d62b7b78cd3b33aeeaae750575.png"
+        },
+        "backTitle": "Me gustaría aplicar el juego con mis alumnos, pero no tengo tiempo para usarlo en clase. ¿Pueden mis alumnos jugarlo en casa?",
+        "backBody": "<p><span>Por supuesto, puedes pedir a tus alumnos que jueguen el videojuego en sus casas y mandarles trabajos de reflexión como deberes o comentar y realizar la sesión de reflexión después en clase.</span></p>"
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2fe",
+    "_parentId": "5f4117969bbcb106b456a2d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/39855ad1c56f01683bbac9d24d648ec4cba51713.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "¿Cómo se siente la víctima de acoso? ¿Cómo se han sentido jugando?",
+        "_ariaLevel": 0,
+        "body": "<p><span>Conectado muestra a los jugadores los sentimientos de impotencia, agobio, frustración… al no poder superar los minijuegos, tomar represalias contra los agresores y poder solventar los problemas en los que les sitúa el videojuego.</span></p>",
+        "strapline": "Compañera",
+        "_graphic": {
+          "src": "course/en/assets/639301717eb1a3efb1005e0dcfa1c2b258db2d06.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/5ed3a9fde0ede9ee6778fa317953ed9cc3e36ead.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 14
+      },
+      {
+        "title": "¿Qué pasa con la mochila?",
+        "_ariaLevel": 0,
+        "body": "<p><span>La mochila cambia todos los días de lugar, muchas veces los jugadores se olvidarán de esta y tendrán que volver, perdiendo así tiempo. Esto es una representación de las dificultades de la víctima para volver al centro todos los días, donde cada hora puede ser un calvario. Al final, el instituto es un lugar que la víctima no quiere pisar. Es una referencia también a como ciertos&nbsp; cambios de comportamientos pueden ser indicadores de que una persona está sufriendo (ciber)bullying.</span></p>",
+        "strapline": "Mochila",
+        "_graphic": {
+          "src": "course/en/assets/ef69ca3711ede2054d1e189366dc9d1bd8a6e322.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/73d3fafd8c160ba110360112350d8ba93234fee5.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 51
+      },
+      {
+        "title": "¿Cómo termina el juego? ¿Cuál ha sido la manera en la que el acoso termina?",
+        "_ariaLevel": 0,
+        "body": "<p><span>El juego muestra como la única manera de terminar es pedir ayuda bien contando las cosas al profesor al final del juego o bien a los padres (también al final) para que hablen con este. Todas las demás acciones del jugador no han tenido ningún efecto.</span></p>",
+        "strapline": "Profesor",
+        "_graphic": {
+          "src": "course/en/assets/f7cd82192c261f789842e34aa1cb354813eb99b4.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/b7141b7ebc30e1f523a571e284a16c0c0496943b.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 40,
+        "_top": 14
+      },
+      {
+        "title": "¿Cuántos habéis hablado con vuestros padres todos los días? ¿Lo hacéis en la realidad?",
+        "_ariaLevel": 0,
+        "body": "<p><span>Es importante la comunicación de los jóvenes con sus padres, hay estudios que relacionan una baja comunicación con el riesgo de sufrir acoso y ciberacoso.</span></p>",
+        "strapline": "Padres",
+        "_graphic": {
+          "src": "course/en/assets/892532164ed1b3231109269cf3c96c3121c69c7d.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/7b5c97048e59c7aeab750cee4a4719d89daef3a6.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 59,
+        "_top": 51
+      },
+      {
+        "title": "¿Cómo se hubiera solucionado todo mucho antes?",
+        "_ariaLevel": 0,
+        "body": "<p><span>Si los compañeros hubieran tomado otro rol distinto al del observador y hubieran ayudado al jugador en vez de ponerse en su contra o no hacer nada, el agresor no hubiera tenido manera de seguir con el acoso. Muchas veces las víctimas tienen problemas para pedir ayuda y se sienten impotentes. Es importante que los observadores nunca sean complacientes con las agresiones, que apoyen a las víctimas e incluso pidan ayuda en su lugar.</span></p>",
+        "strapline": "Compañero 2",
+        "_graphic": {
+          "src": "course/en/assets/0d6da0a19b428305b06559bee8a3300106452709.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/b13a0a1aa59ff84931461396ebfc6f20a9f1a819.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 75,
+        "_top": 14
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a2ff",
+    "_parentId": "5f4117969bbcb106b456a2db",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/436dbb91756beeacdade1dcbbbe9d4fefece9aae.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/cd76d724621528710efe8976fdb58eb107a8c63c.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a300",
+    "_parentId": "5f4117969bbcb106b456a2dc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/b1d96de7d1251af0ab1c073e7c38484320b26cbc.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/dcf550178df28d5d373ca4be407962788ddbb375.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a301",
+    "_parentId": "5f4117969bbcb106b456a2dd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/16c542699520cbb30259a936b9222d614e92aaff.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/7be16451818efa37c2bfc4746af0ec16f86f760e.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a302",
+    "_parentId": "5f4117969bbcb106b456a2de",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/0f17a623530a80f96114fe8ddedcfd27050221d8.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/6d74ad8ea640fb147ecfde5caa50bf9f6b2eb57b.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a303",
+    "_parentId": "5f4117969bbcb106b456a2df",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/d91f1f1c592f162674909013a8df1c74fdcb37aa.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/cc333280e7fb1f61a9b55b8f2c6bf0048e8b9e82.PNG",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "quicknav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "¡Ya estás preparado para avanzar a la siguiente unidad!",
+    "displayTitle": "¡Ya estás preparado para avanzar a la siguiente unidad!",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a304",
+    "_parentId": "5f4117969bbcb106b456a2e0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Continuar >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "quicknav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Avanza a la siguiente unidad y descubre qué es Conectado, el juego serio que ayuda a prevenir el bullying y el ciberbullying.",
+    "displayTitle": "Avanza a la siguiente unidad y descubre qué es Conectado, el juego serio que ayuda a prevenir el bullying y el ciberbullying.",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a305",
+    "_parentId": "5f4117969bbcb106b456a2ce",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Continuar >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "quicknav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Avanza a la última unidad y descubre las recomendaciones que se deben seguir para usar el juego en el aula de clases.",
+    "displayTitle": "Avanza a la última unidad y descubre las recomendaciones que se deben seguir para usar el juego en el aula de clases.",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a306",
+    "_parentId": "5f4117969bbcb106b456a2d2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Continuar >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "quicknav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "¡Felicidades! Has llegado al final de este curso y ya puedes usar Conectado en el aula.",
+    "displayTitle": "¡Felicidades! Has llegado al final de este curso y ya puedes usar Conectado en el aula.",
+    "body": "",
+    "_id": "5f4117969bbcb106b456a307",
+    "_parentId": "5f4117969bbcb106b456a2da",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Continuar >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  }
+]

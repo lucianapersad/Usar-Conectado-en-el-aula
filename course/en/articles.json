@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Unidad 1: La realidad del bullying y el ciberbullying",
+    "displayTitle": "",
+    "body": "<p>Lo más seguro es que para ti el bullying y el ciberbullying no sean conceptos nuevos, ya que probablemente has escuchado hablar de ellos, has visto algún caso en tu centro educativo o has participado en alguna actividad dirigida a prevenirlo o detenerlo. En cualquiera de los casos, se puede decir que tienes conocimiento, en menor o mayor grado, del fenómeno.</p><p>En esta unidad queremos repasar algunos conceptos básicos a través de una serie de actividades interactivas y posteriormente ofrecerte una visión más global del fenómeno mostrándote las últimas cifras oficiales que explican el comportamiento del bullying y el ciberbullying a nivel mundial y local.</p><p>¡Comencemos!</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2bc",
+    "_parentId": "5f4117959bbcb106b456a2b8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Unidad 2: Prevenir usando Serious Games",
+    "displayTitle": "",
+    "body": "<p>Prevenir es la clave para evitar que surjan fenómenos como el bullying y el ciberbullying en las aulas de clase, por ello en esta unidad te mostraremos las estrategias más eficaces que existen para lograr este objetivo y cómo la forma de prevenir ha ido evolucionando alcanzando las leyes, el trabajo colaborativo entre organismos y la incorporación de la tecnología.</p><p>¡Comencemos!</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2bd",
+    "_parentId": "5f4117959bbcb106b456a2b9",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Unidad 3: ¿Qué es Conectado?",
+    "displayTitle": "",
+    "body": "<p>Conectado es una aventura gráfica en la que el jugador se pondrá en la piel de una persona que sufre acoso y ciberacoso por parte de sus compañeros de clase para desarrollar habilidades sociales como la empatía y, en consecuencia, prevenir el acoso.</p><p>¿Quieres conocer más sobre este juego? Anímate a iniciar esta unidad.</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2be",
+    "_parentId": "5f4117959bbcb106b456a2ba",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Unidad 4: ¿Cómo jugar Conectado?",
+    "displayTitle": "",
+    "body": "<p>Como ya te hemos comentado, Conectado es una aventura gráfica que se divide en 5 días, a través de los cuales se van desarrollando situaciones que buscan fomentar habilidades sociales como la empatía.</p><p>Es un videojuego que está diseñado para usarse en una sesión de al menos 50 minutos, durante la cual, cada jugador completa el juego de manera individual en unos 30-40 minutos. Una vez completado el juego, todos los alumnos han tenido una experiencia común con la que el profesor puede trabajar después.</p><p>En esta unidad podrás conocer con detalle qué ocurre cada día del juego, qué temas se tratan y cómo se puede fomentar el debate sobre lo observado.</p><p>¡Comienza ya!</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f4117969bbcb106b456a2bf",
+    "_parentId": "5f4117959bbcb106b456a2bb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_id": "5f4117969bbcb106b456a308",
+  "_courseId": "5f4117959bbcb106b456a2b7",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": 1,
+      "_menuItem": 2,
+      "_page": 1,
+      "_article": 2,
+      "_block": 3,
+      "_component": 4,
+      "_componentItem": 5,
+      "_notify": 1
+    }
+  },
+  "__v": 0,
+  "_completionCriteria": {
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_homeButton": {
+    "_isEnabled": true
+  },
+  "build": {
+    "includes": [
+      "adapt-tilesMenu",
+      "5e90a05ed81ec81a60e1a1c5",
+      "adapt-contrib-accordion",
+      "adapt-contrib-flipcard",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-narrative",
+      "adapt-contrib-mcq",
+      "adapt-contrib-media",
+      "adapt-quicknav",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-aboutUs",
+      "adapt-homeButton"
+    ]
+  }
+}

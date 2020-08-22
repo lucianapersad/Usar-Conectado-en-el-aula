@@ -1,0 +1,193 @@
+{
+  "title": "Usar Conectado en el aula: Curso para docentes",
+  "displayTitle": "",
+  "body": "<p><span style=\"color:#2F4F4F\">¡Bienvenido!</span></p><p><span style=\"color:#2F4F4F\">Este curso ha sido creado con el objetivo de explicarte de qué manera puedes usar <strong>Conectado</strong> como una herramienta para prevenir el bullying y el ciberbullying en el aula.</span></p><p>&nbsp;</p><p>&nbsp;</p><p>Diseño y creación del curso: <a href=\"https://www.linkedin.com/in/luciana-pe%C3%B1a-persad-510a91181/\">Luciana Peña Persad</a></p>",
+  "description": "",
+  "_htmlClassName": "",
+  "_latestTrackingId": 33,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Enviar respuesta",
+      "ariaLabel": "Enviar respuesta"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Respuesta correcta",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Mi respuesta",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Ver feedback",
+      "ariaLabel": "Ver feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress."
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_accordion": {
+        "ariaRegion": "Accordion. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      }
+    },
+    "_extensions": {
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content"
+      }
+    }
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_colors": {
+      "primary-color": "#00695e",
+      "primary-color-inverted": "#ffffff",
+      "secondary-color": "#4b4e4f",
+      "secondary-color-inverted": "#ffffff",
+      "tertiary-color": "#ffffff",
+      "tertiary-color-inverted": "#4b4e4f",
+      "quaternary-color": "#37474f",
+      "quaternary-color-inverted": "#ffffff",
+      "foreground-color": "#4b4e4f",
+      "background-color": "#ffffff",
+      "foreground-color-inverted": "#ffffff",
+      "background-color-inverted": "#546e7a",
+      "validation-error": "#00695e",
+      "validation-success": "#82ca9c",
+      "disabled-color": "#727272",
+      "disabled-color-inverted": "#cccccc"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_homeButton": {
+    "_isEnabled": true,
+    "_hideHomeButton": false,
+    "_redirectToId": "",
+    "alt": "Ir al menú"
+  },
+  "_aboutUs": {
+    "_drawerOrder": 0,
+    "title": "Licencia",
+    "description": "",
+    "headline": "Más información",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_aboutUsItems": [
+      {
+        "title": "Licencia ",
+        "description": "<p>Este curso posee una licencia CC BY-NC-SA (Creative Commons Attribution Non-Commercial Share Alike)</p>\n\n<img src=\"http://localhost:5000/api/asset/serve/5f4115639bbcb106b456a2b5\">"
+      },
+      {
+        "title": "Diseño",
+        "description": "<p>El diseño instruccional y gráfico ha sido realizado por <a href=\"https://www.linkedin.com/in/luciana-pe%C3%B1a-persad-510a91181/\">Luciana Peña Persad</a></p>"
+      },
+      {
+        "title": "Desarrollo",
+        "description": "<p>Las adaptaciones de los componentes y extensiones de Adapt Authoring han sido realizadas por <a href=\"https://github.com/jorcorel\">Jorge González Courel</a></p>"
+      },
+      {
+        "title": "Contenido original",
+        "description": "<div class=\"hotgraphic-content-body\"><p>El proyecto Conectado pertenece al grupo <a href=\"http://www.e-ucm.es/es/\" rel=\"nofollow\">eUCM</a>, fue desarrollado por <a href=\"https://github.com/gorco\">Antonio Calvo Morata</a> y dirigido por Baltasar Fernández Manjón, Manuel Freire Morán e Iván Martínez Ortiz.</p><p>Los recusos gráficos han sido diseñados por <a href=\"https://nashek.artstation.com/\" rel=\"nofollow\">Ana Vallecillos Ruiz</a> (Directora de Arte) y <a href=\"https://www.redbubble.com/es/people/lolagonzalez?asc=u\" rel=\"nofollow\">Lola González Gutiérrez</a>.</p><p>Tanto el ejecutable como una guía para el docente se encuentran en <a href=\"https://github.com/gorco/Conectado-CyberbullyingGame/blob/master/e-ucm.es/conectado\">e-ucm.es</a>.</p></div>"
+      }
+    ],
+    "_socialLinks": [
+      {
+        "_link": "https://www.linkedin.com/in/luciana-pe%C3%B1a-persad-510a91181/",
+        "_service": "LinkedIn"
+      }
+    ]
+  },
+  "_tilesMenu": {
+    "_backgroundSrc": "course/en/assets/995912d5d750339ad93e1b44d0d9cb7b6830d910.png"
+  }
+}
