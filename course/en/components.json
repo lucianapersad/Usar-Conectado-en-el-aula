@@ -601,8 +601,8 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p style=\"text-align:center\"><span>En<strong> América del norte</strong> un 25% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
-        "strapline": "América del norte",
+        "body": "<p style=\"text-align:center\"><span>En<strong> América del Norte</strong> un 25% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "América del Norte",
         "_graphic": {
           "src": "course/en/assets/4175b7d65d20c3dbfa1ed590cc6f5035e995ed3d.png",
           "alt": "",
@@ -620,8 +620,8 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p style=\"text-align: center;\"><span>En <strong>América central</strong> un 22,8% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
-        "strapline": "América central",
+        "body": "<p style=\"text-align:center\"><span>En <strong>América Central</strong> un 22,8% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "América Central",
         "_graphic": {
           "src": "course/en/assets/2794f3728c359d12a727ce0a3fc6779c22ffbdfe.png",
           "alt": "",
@@ -639,8 +639,8 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p style=\"text-align: center;\"><span>En <strong>América del sur</strong> un 30,2% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
-        "strapline": "América del sur",
+        "body": "<p style=\"text-align:center\"><span>En <strong>América del Sur</strong> un 30,2% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "América del Sur",
         "_graphic": {
           "src": "course/en/assets/17788bb03e46699f300ccdeec2e71cbad2c7f8d6.png",
           "alt": "",
@@ -677,8 +677,8 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p style=\"text-align: center;\"><span>En <strong>África del norte</strong> un 42,7% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
-        "strapline": "África del norte",
+        "body": "<p style=\"text-align:center\"><span>En <strong>África del Norte</strong> un 42,7% de los estudiantes ha sufrido algún tipo de bullying.</span></p>",
+        "strapline": "África del Norte",
         "_graphic": {
           "src": "course/en/assets/01ec3ce1d04d6f104a117e65415c7e393b35b58c.png",
           "alt": "",
@@ -753,8 +753,8 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p style=\"text-align: center;\"><span>En <strong>América del norte</strong> 9,12% de los estudiantes ha sufrido algún tipo de ciberbullying.</span></p>",
-        "strapline": "América del norte",
+        "body": "<p style=\"text-align:center\"><span>En <strong>América del Norte</strong> 9,12% de los estudiantes ha sufrido algún tipo de ciberbullying.</span></p>",
+        "strapline": "América del Norte",
         "_graphic": {
           "src": "course/en/assets/a91755b6228517c6e7dee87e42d9e7b935e7f008.png",
           "alt": "",
@@ -925,7 +925,7 @@
       {
         "title": "A nivel mundial",
         "_ariaLevel": 0,
-        "body": "<ul><li><strong>África Subsahariana</strong> con un <strong>48,2%</strong> representa la zona con mayor prevalencia de bullying, mientras que América central con un <strong>22,8%</strong> representa la zona con menor prevalencia del bullying.</li><li>En <strong>Europa</strong> un <strong>25%</strong> de los estudiantes ha sufrido algún tipo de bullying y un <strong>9,15%</strong> ha sufrido algún tipo de ciberbullying.</li></ul>",
+        "body": "<ul><li><strong>África Subsahariana</strong> con un <strong>48,2%</strong> representa la zona con mayor prevalencia de bullying, mientras que América Central con un <strong>22,8%</strong> representa la zona con menor prevalencia del bullying.</li><li>En <strong>Europa</strong> un <strong>25%</strong> de los estudiantes ha sufrido algún tipo de bullying y un <strong>9,15%</strong> ha sufrido algún tipo de ciberbullying.</li></ul>",
         "_graphic": {
           "src": "course/en/assets/036ac87a6381bf719c1f9dfe9f7c8d3316303e23.png",
           "alt": "",
