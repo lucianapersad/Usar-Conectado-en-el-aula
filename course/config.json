@@ -62,8 +62,8 @@
       "adapt-quicknav",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-tutor",
-      "adapt-homeButton",
-      "adapt-aboutUs"
+      "adapt-aboutUs",
+      "adapt-homeButton"
     ]
   }
 }

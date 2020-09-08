@@ -4,7 +4,7 @@
   "body": "<p><span style=\"color:#2F4F4F\">¡Bienvenido!</span></p><p><span style=\"color:#2F4F4F\">Este curso ha sido creado con el objetivo de explicarte de qué manera puedes usar <strong>Conectado</strong> como una herramienta para prevenir el bullying y el ciberbullying en el aula.</span></p><p>&nbsp;</p><p>&nbsp;</p><p>Diseño y creación del curso: <a href=\"https://www.linkedin.com/in/luciana-pe%C3%B1a-persad-510a91181/\">Luciana Peña Persad</a></p>",
   "description": "",
   "_htmlClassName": "",
-  "_latestTrackingId": 34,
+  "_latestTrackingId": 33,
   "_buttons": {
     "_submit": {
       "buttonText": "Enviar respuesta",
@@ -155,45 +155,29 @@
   },
   "_aboutUs": {
     "_drawerOrder": 0,
-    "title": "Más información",
-    "description": "Más información",
+    "title": "Licencia",
+    "description": "",
     "headline": "Más información",
     "_graphic": {
-      "alt": "Más información",
+      "alt": "",
       "src": ""
     },
     "_aboutUsItems": [
       {
-        "title": "Licencia",
-        "description": "<p>Este curso posee una licencia CC BY-NC-SA (Creative Commons Attribution Non-Commercial Share Alike)</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/b2f456aa8d6fcc5b80f821ec321150329bf7dd8a.png"
-        }
+        "title": "Licencia ",
+        "description": "<p>Este curso posee una licencia CC BY-NC-SA (Creative Commons Attribution Non-Commercial Share Alike)</p>\n\n<img src=\"http://localhost:5000/api/asset/serve/5f4115639bbcb106b456a2b5\">"
       },
       {
         "title": "Diseño",
-        "description": "<p>El diseño instruccional y gráfico ha sido realizado por <a href=\"https://www.linkedin.com/in/luciana-pe%C3%B1a-persad-510a91181/\">Luciana Peña Persad</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "description": "<p>El diseño instruccional y gráfico ha sido realizado por <a href=\"https://www.linkedin.com/in/luciana-pe%C3%B1a-persad-510a91181/\">Luciana Peña Persad</a></p>"
       },
       {
         "title": "Desarrollo",
-        "description": "<p>Las adaptaciones de los componentes y extensiones de Adapt Authoring han sido realizadas por <a href=\"https://github.com/jorcorel\">Jorge González Courel</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "description": "<p>Las adaptaciones de los componentes y extensiones de Adapt Authoring han sido realizadas por <a href=\"https://github.com/jorcorel\">Jorge González Courel</a></p>"
       },
       {
         "title": "Contenido original",
-        "description": "<div class=\"aboutus-item-description\" style=\"display: block;\"><div class=\"aboutus-item-description-inner\"><div class=\"hotgraphic-content-body\"><p>El proyecto Conectado pertenece al grupo <a href=\"http://www.e-ucm.es/es/\" rel=\"nofollow\">eUCM</a>, fue desarrollado por <a href=\"https://github.com/gorco\">Antonio Calvo Morata</a> y dirigido por Baltasar Fernández Manjón, Manuel Freire Morán e Iván Martínez Ortiz.</p><p>Los recusos gráficos han sido diseñados por <a href=\"https://nashek.artstation.com/\" rel=\"nofollow\">Ana Vallecillos Ruiz</a> (Directora de Arte) y <a href=\"https://www.redbubble.com/es/people/lolagonzalez?asc=u\" rel=\"nofollow\">Lola González Gutiérrez</a>.</p><p>Tanto el ejecutable como una guía para el docente se encuentran en <a href=\"https://github.com/gorco/Conectado-CyberbullyingGame/blob/master/e-ucm.es/conectado\">e-ucm.es</a>.</p></div></div></div>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "description": "<div class=\"hotgraphic-content-body\"><p>El proyecto Conectado pertenece al grupo <a href=\"http://www.e-ucm.es/es/\" rel=\"nofollow\">eUCM</a>, fue desarrollado por <a href=\"https://github.com/gorco\">Antonio Calvo Morata</a> y dirigido por Baltasar Fernández Manjón, Manuel Freire Morán e Iván Martínez Ortiz.</p><p>Los recusos gráficos han sido diseñados por <a href=\"https://nashek.artstation.com/\" rel=\"nofollow\">Ana Vallecillos Ruiz</a> (Directora de Arte) y <a href=\"https://www.redbubble.com/es/people/lolagonzalez?asc=u\" rel=\"nofollow\">Lola González Gutiérrez</a>.</p><p>Tanto el ejecutable como una guía para el docente se encuentran en <a href=\"https://github.com/gorco/Conectado-CyberbullyingGame/blob/master/e-ucm.es/conectado\">e-ucm.es</a>.</p></div>"
       }
     ],
     "_socialLinks": [

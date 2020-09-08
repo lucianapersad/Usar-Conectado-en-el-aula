@@ -823,30 +823,5 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 34,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_id": "5f48bddb9bbcb106b456a38e",
-    "_parentId": "5f4117969bbcb106b456a2bf",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    }
   }
 ]
