@@ -3393,5 +3393,35 @@
         "tooltip": "Close window"
       }
     }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><span>Si quieres ayudarnos a evaluar el curso ingresa <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScgGdBa6sv-fsoDA1D-5OwnHDJbEEa5zAtkv0YdghW3sB45Nw/viewform\">aquí</a> y danos tu opinión</span></p>",
+    "_id": "5f48bde99bbcb106b456a38f",
+    "_parentId": "5f48bddb9bbcb106b456a38e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [],
+    "_shouldCollapseItems": true
   }
 ]
